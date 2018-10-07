@@ -15,5 +15,8 @@ html {
 	line-height: 1.2em;
 	color: black;
 	text-align: center;
-	background-color: #60f7e0;
+}
+
+body {
+	color: #60f7e0;
 }
